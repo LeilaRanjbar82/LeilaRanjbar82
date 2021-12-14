@@ -16,7 +16,7 @@ This file is used to introduce the files in [CapstoneProject](https://github.com
 ## yoga_08_0.862.h5: `.h5` model
 ## yoga_08_0.862.tflite: `.tflit` model
 ## Help.md: CapstoneProject folder help
-## README.md: Project Description
+## ProjectDescription.md: Project Description
 
 You can also find the model files and dataset on my google drive.
 * **yoga_08_0.862.h5:** `.h5` model [h5link](https://drive.google.com/drive/folders/1CKu7hcxSxO8r2zUqebE0f0O6hyGCW-td?usp=sharing)
