@@ -57,7 +57,7 @@ The process to Download is as follows:
 
 `[REF: https://www.analyticsvidhya.com/blog/2021/04/how-to-download-kaggle-datasets-using-jupyter-notebook/]`
 
-**P.S.** I have been uploaded the dataset in [Capstone Project](https://github.com/LeilaRanjbar82/ML-zoomcamp-course-homework/tree/main/CapstoneProject) (complete and splitted in the 3 folders, train, valisation, and test). You don't need to follow the structure. I put it here just for clarifying the process.
+**P.S.** I have been uploaded the dataset in [Capstone Project](https://github.com/LeilaRanjbar82/LeilaRanjbar82) (complete and splitted in the 3 folders, train, valisation, and test). You don't need to follow the structure. I put it here just for clarifying the process.
 
 ### 2.3. Data Detail and Exploratory Data Analysis
 (You can find codes in notebook.ipynb)
