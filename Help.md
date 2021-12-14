@@ -13,6 +13,8 @@ This file is used to introduce the files in [CapstoneProject](https://github.com
 * **Docker**
 
 ## yoga-posture-cleaned: Dataset
+## yoga_08_0.862.h5: `.h5` model
+## yoga_08_0.862.tflite: `.tflit` model
 ## Help.md: CapstoneProject folder help
 ## README.md: Project Description
 
